@@ -1,0 +1,28 @@
+.container{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 100%;
+    width: 100%;
+}
+.element{
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    h1{
+        position: relative;
+        top: -40px;
+        font-size: 80px;
+    }
+    .clear-button{
+        cursor:pointer;
+        display:block;
+        border:1px double #333;
+        border-radius: 4px;
+        padding:5px;
+        width: 30%;
+        margin:0px auto;
+    }
+}
