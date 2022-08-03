@@ -26,3 +26,19 @@
         margin:0px auto;
     }
 }
+.credit{
+    display: block;
+    padding:10px;
+    margin:0px auto;
+    small{
+        display: block;
+        color:#aaa;
+    }
+    a{
+        padding:5px;
+        display: block;
+        font-size: 18px;
+        text-decoration: none;
+        color: #999;
+    }
+}
