@@ -1,3 +1,6 @@
+# Demo link
+[Demo](https://angular-keyboard-tester.pages.dev)
+
 # AngularKeyboardTester
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
